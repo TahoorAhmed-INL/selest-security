@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "341467558479",
+    "project_id": "selest-security",
+    "storage_bucket": "selest-security.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:341467558479:android:cca8abd329abe9e403f03a",
+        "android_client_info": {
+          "package_name": "com.selestmobileapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMnCr9yLPHekNsJVDiwaj6pFqKVvN1XWo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
